@@ -1,0 +1,33 @@
+{
+    "Questions": [
+        {
+        "Question": "Which of the folowing does not contribute significantly to the operational value of a large cloud provider like AWS",
+        "Answers": [
+            "A: Multiregional presence", 
+            "B: Highly experienced teams of security engineers", 
+            "C: Deep experience in the retail sphere", 
+            "D: Metered, pay-per-use pricing"],
+        "Correct_answer": ["C"]
+    }, {
+        "Question": "Which of the folowing are signs of a highly available application (Select TWO)",
+        "Answers": [
+            "A: A failure in one geographic region will trigger an automatic failover to recources in a different region.", 
+            "B: Applications are protected behind  multiple layers of security.", 
+            "C: Virtualized hypervisor-driven systems are deployed as mandated by company policy.",
+            "D: Spikes in user demand are met through automatically increasing resources"],
+        "Correct_answer": ["A", "D"] 
+    },
+    {
+    "Question": "How does the metered payment model make many benifits of cloud computing possible (Select TWO)",
+    "Answers": [
+        "A: Greater application security is now possible.",
+        "B: Experiments with multiple configuration options are now cost-effective.",
+        "C: Applications are now highly scalable",
+        "D: Full-stack applications are possible without the need to invest in capital expenses."
+    ],
+    "Correct_answer": ["B", "D"]
+    }
+
+    ]
+
+}
